@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Householder
+END
+HouseholderSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Householder/HouseholderSequence.h
+END
+BlockHouseholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Householder/BlockHouseholder.h
+END
+Householder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Householder/Householder.h
+END

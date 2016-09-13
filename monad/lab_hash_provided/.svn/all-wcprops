@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided
+END
+hashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/hashtable.h
+END
+textLong.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/textLong.txt
+END
+unit_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/unit_tests.cpp
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/config.ini
+END
+textEasy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/textEasy.txt
+END
+hashes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/hashes.cpp
+END
+log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/log.txt
+END
+sciterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/sciterator.cpp
+END
+textHard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/textHard.txt
+END
+hashes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/hashes.h
+END
+wordCount.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/wordCount.txt
+END
+textfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/textfile.cpp
+END
+sciterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/sciterator.h
+END
+lpiterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/lpiterator.cpp
+END
+htiterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/htiterator.cpp
+END
+textfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/textfile.h
+END
+lpiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/lpiterator.h
+END
+htiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/htiterator.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sp15-cs225/!svn/ver/38381/_shared/lab_hash_provided/Makefile
+END

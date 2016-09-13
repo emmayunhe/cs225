@@ -1,0 +1,36 @@
+[Required Files]
+Makefile
+image.h
+image.cpp
+2:scene.h
+2:scene.cpp
+
+[Testing Files]
+Makefile
+unit_tests.cpp
+
+; resources
+in_01.png
+in_02.png
+in_03.png
+soln_brightened.png
+soln_flipped.png
+soln_inverted.png
+soln_scene.png
+soln_scene2.png
+soln_scene3.png
+soln_scene4.png
+soln_scene5.png
+soln_scene6.png
+soln_scene7.png
+soln_scene8.png
+
+[Libraries]
+easypng
+
+[Make Options]
+1?MP_PART=1
+2:MP_PART=2
+
+[Pre-Make Commands]
+

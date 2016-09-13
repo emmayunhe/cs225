@@ -1,0 +1,39 @@
+Grading revision r44700 by ziyunhe2, dated 2015-05-02 23:53:40.000473752 -0500 CDT
+Monad Autograder
+Testing mp7 at 2015-05-03 01:10:32
+
+"One day I will shoot you with this bullet. Can you still say that you love me?" ~ Re-l Mayer
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+addElements1  . . . . . . [5 pts] - passed
+addElements2  . . . . . . [5 pts] - passed
+testFindAndSetUnion1  . . [5 pts] - passed
+testFindAndSetUnion2  . . [5 pts] - passed
+testFindAndSetUnion3  . . [5 pts] - passed
+testMakeSmallMaze . . . . [5 pts] - FAILED
+testMakeMazeConnected . . [5 pts] - FAILED
+testMakeMazeAcyclic . . . [5 pts] - FAILED
+testMakeMazeTree1000  . . [5 pts] - FAILED
+testMakeMazeRandom  . . . [5 pts] - passed
+testSolveMazeValidPath  . [5 pts] - FAILED
+testSolutionBottomRow . . [5 pts] - FAILED
+testSolutionCorrectSquare [5 pts] - FAILED
+testSolveMazeSmall  . . . [5 pts] - FAILED
+testSolveMazeLarge  . . . [5 pts] - FAILED
+testDrawMazeSmall . . . . [5 pts] - FAILED
+testDrawMazeMed . . . . . [5 pts] - FAILED
+testDrawMazeLarge . . . . [5 pts] - FAILED
+testDrawSolutionMed . . . [5 pts] - FAILED
+testDrawSolutionLarge . . [5 pts] - FAILED
+
+
+Total score...
+================================================================
+TOTAL SCORE: 30
+

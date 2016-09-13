@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Core/arch/SSE
+END
+PacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Core/arch/SSE/PacketMath.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Core/arch/SSE/MathFunctions.h
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/Core/arch/SSE/Complex.h
+END

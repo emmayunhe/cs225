@@ -1,0 +1,18 @@
+[Required Files]
+avltree.cpp
+avltree.h
+
+[Testing Files]
+Makefile
+unit_tests.cpp
+avltree_given.cpp
+soln_manyInserts.out
+soln_manyRotations.out
+soln_oneElement.out
+soln_simpleRotateLeft.out
+soln_simpleRotateRight.out
+soln_threeLeftRotates.out
+soln_threeRightRotates.out
+
+[Libraries]
+printtree

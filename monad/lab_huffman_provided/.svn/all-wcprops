@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided
+END
+soln_test.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_test.bin
+END
+soln_tree.huff
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_tree.huff
+END
+unit_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/unit_tests.cpp
+END
+frequency.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/frequency.cpp
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/config.ini
+END
+binary_file_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/binary_file_reader.cpp
+END
+decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/decoder.cpp
+END
+frequency.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/frequency.h
+END
+binary_file_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/binary_file_reader.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/decoder.h
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/test.txt
+END
+binary_file_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/binary_file_writer.cpp
+END
+encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/encoder.cpp
+END
+soln_tree_2.huff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_tree_2.huff
+END
+soln_test_2.bin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_test_2.bin
+END
+soln_test2.bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_test2.bin
+END
+soln_tree2.huff
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/soln_tree2.huff
+END
+encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/encoder.h
+END
+binary_file_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/binary_file_writer.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp15-cs225/!svn/ver/24059/_shared/lab_huffman_provided/Makefile
+END

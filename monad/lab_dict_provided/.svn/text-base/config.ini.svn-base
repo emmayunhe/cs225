@@ -1,0 +1,24 @@
+[Required Files]
+anagram_dict.cpp
+anagram_dict.h
+fib.cpp
+pronounce_dict.cpp
+pronounce_dict.h
+cartalk_puzzle.cpp
+common_words.cpp
+common_words.h
+
+[Testing Files]
+Makefile
+unit_tests.cpp
+fib.h
+homophone_puzzle.cpp
+homophone_puzzle.h
+cartalk_puzzle.h
+words.txt
+small1.txt
+small2.txt
+Beowulf.txt
+PrideAndPrejudice.txt
+cartalk_words.txt
+

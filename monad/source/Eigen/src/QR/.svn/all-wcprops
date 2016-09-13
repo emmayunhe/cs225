@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/QR
+END
+ColPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/QR/ColPivHouseholderQR.h
+END
+HouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/QR/HouseholderQR.h
+END
+FullPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp15-cs225/!svn/ver/647/_shared/monad/source/Eigen/src/QR/FullPivHouseholderQR.h
+END

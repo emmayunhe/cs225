@@ -1,0 +1,12 @@
+rotateRightLeft
+rotateRight
+rotateLeft
+rotateRight
+rotateRightLeft
+rotateRight
+rotateLeft
+       2         
+     /   \       
+   1       4     
+  /       / \    
+ 0       3   5   

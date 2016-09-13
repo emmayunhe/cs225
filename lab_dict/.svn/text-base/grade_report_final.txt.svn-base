@@ -1,0 +1,27 @@
+Grading revision r30894 by ziyunhe2, dated 2015-03-29 17:13:42.000414373 -0500 CDT
+Monad Autograder
+Testing lab_dict at 2015-03-30 00:59:22
+
+"It always takes longer than you expect, even when you take into account Hofstadter's Law." ~ Hofstadter's Law
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_get_anagrams  . . . . [15 pts] - passed
+test_get_all_anagrams  . . [15 pts] - passed
+test_fib . . . . . . . . . [5 pts]  - passed
+test_memoized_fib  . . . . [15 pts] - passed
+test_homophones  . . . . . [10 pts] - passed
+test_cartalk_puzzle  . . . [10 pts] - passed
+test_get_common_words_3  . [15 pts] - passed
+test_get_common_words_3000 [15 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

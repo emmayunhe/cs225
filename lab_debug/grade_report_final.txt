@@ -1,0 +1,24 @@
+Grading revision r4499 by ziyunhe2, dated 2015-01-28 21:01:51.000618605 -0600 CST
+Monad Autograder
+Testing lab_debug at 2015-02-02 00:25:09
+
+"It may look like I'm doing nothing, but I'm actively waiting for my problems to go away." ~ Scott Adams
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+no_segfaults . . . [20 pts] - passed
+produces_out_png . [10 pts] - passed
+similar_sketch . . [30 pts] - passed
+complete_in_01_png [20 pts] - passed
+complete_in_02_png [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

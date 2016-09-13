@@ -1,0 +1,44 @@
+Grading revision r28880 by ziyunhe2, dated 2015-03-20 23:39:17.000411285 -0500 CDT
+Monad Autograder
+Testing mp5.1 at 2015-03-21 00:39:18
+
+"For humans, honesty is a matter of degree. Engineers are always honest in matters of technology and human relationships. That's why it's a good idea to keep engineers away from customers, romantic interests, and other people who can't handle the truth." ~ Scott Adams
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_default_ctor  . . . . [4 pts] - passed
+test_ctor_1  . . . . . . . [4 pts] - passed
+test_ctor_2  . . . . . . . [4 pts] - passed
+test_buildTree_1 . . . . . [4 pts] - passed
+test_buildTree_2 . . . . . [4 pts] - passed
+test_buildTree_3 . . . . . [4 pts] - passed
+test_cctor_1 . . . . . . . [2 pts] - FAILED
+test_cctor_2 . . . . . . . [2 pts] - passed
+test_cctor_3 . . . . . . . [2 pts] - passed
+test_cctor_4 . . . . . . . [4 pts] - FAILED
+test_assign_op_1 . . . . . [2 pts] - passed
+test_assign_op_2 . . . . . [2 pts] - passed
+test_assign_op_3 . . . . . [2 pts] - FAILED
+test_assign_op_4 . . . . . [4 pts] - FAILED
+test_getPixel_1  . . . . . [4 pts] - passed
+test_getPixel_2  . . . . . [4 pts] - passed
+test_getPixel_3  . . . . . [4 pts] - passed
+test_getPixel_4  . . . . . [4 pts] - passed
+test_decompress_unpruned_1 [4 pts] - passed
+test_decompress_unpruned_2 [4 pts] - passed
+test_decompress_unpruned_3 [6 pts] - passed
+test_decompress_unpruned_4 [6 pts] - passed
+time_getPixel_logn . . . . [6 pts] - passed
+time_decompress_n (asan) . [6 pts] - passed
+valgrind_big3 (asan) . . . [8 pts] - FAILED
+
+
+Total score...
+================================================================
+TOTAL SCORE: 80
+

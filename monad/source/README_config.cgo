@@ -1,0 +1,22 @@
+    << "monad settings and individual test settings are stored in config.ini files" << endl
+    << "The following options are available for monad's ./config.ini:" << endl
+    << "[SVN Root]" << endl
+    << "; svn base url here (http://.../cs225/)" << endl
+    << "[Monad Files]" << endl
+    << "; Any files to be copied from monad ./ to ./ASSIGNMENT/ testing directory" << endl
+    << "; By default, proxy.cpp is used to run test cases:" << endl
+    << "proxy.cpp" << endl
+    << "" << endl
+    << "The following options are available for individual tests' ../ASSIGNMENT_tests/config.ini:" << endl
+    << "[Required Files]" << endl
+    << "; Any files that must be copied from the ../ASSIGNMENT directory" << endl
+    << "main.cpp" << endl
+    << "[Testing Files]" << endl
+    << "; Any files that must be copied from ../ASSIGNMENT_tests" << endl
+    << "; By default, unit_tests.cpp contains the test cases" << endl
+    << "unit_tests.cpp" << endl
+    << "[Libraries]" << endl
+    << "; Any external library folders to be present in the same directory as the" << endl
+    << "; testing directory. These should be mirrored in [SVN Root]/_shared/" << endl
+    << "; The 'testutil' library in this directory is also available" << endl
+    << "EasyBMP" << endl

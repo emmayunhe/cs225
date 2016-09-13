@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided
+END
+unit_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/unit_tests.cpp
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/config.ini
+END
+soln_simpleRotateLeft.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_simpleRotateLeft.out
+END
+soln_threeLeftRotates.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_threeLeftRotates.out
+END
+soln_simpleRotateRight.out
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_simpleRotateRight.out
+END
+soln_manyRotations.out
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_manyRotations.out
+END
+soln_threeRightRotates.out
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_threeRightRotates.out
+END
+avltree_given.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/avltree_given.cpp
+END
+soln_oneElement.out
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_oneElement.out
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/Makefile
+END
+soln_manyInserts.out
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp15-cs225/!svn/ver/32334/_shared/lab_avl_provided/soln_manyInserts.out
+END

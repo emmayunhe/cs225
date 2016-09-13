@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided
+END
+unit_tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided/unit_tests.cpp
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided/config.ini
+END
+queue
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided/queue
+END
+stack
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided/stack
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp15-cs225/!svn/ver/17305/_shared/lab_quacks_provided/Makefile
+END

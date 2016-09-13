@@ -1,0 +1,13 @@
+[Required Files]
+exercises.cpp
+exercises.h
+quackfun.cpp
+quackfun.h
+
+[Testing Files]
+Makefile
+unit_tests.cpp
+queue
+stack
+
+[Libraries]

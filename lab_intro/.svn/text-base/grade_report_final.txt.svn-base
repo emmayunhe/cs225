@@ -1,0 +1,22 @@
+Grading revision r1909 by ziyunhe2, dated 2015-01-23 11:56:31.000866022 -0600 CST
+Monad Autograder
+Testing lab_intro at 2015-01-26 00:52:03
+
+"If you're not failing every now and again, it's a sign you're not doing anything very innovative." ~ Woody Allen
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testBrighten  . [33 pts] - passed
+testCrosshairs  [33 pts] - passed
+testBlendImages [34 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

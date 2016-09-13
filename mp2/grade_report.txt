@@ -1,0 +1,26 @@
+Grading revision r10537 by ziyunhe2, dated 2015-02-11 19:23:42.000840038 -0600 CST
+Monad Autograder
+Testing mp2 at 2015-02-12 00:51:08
+
+"If you have a procedure with ten parameters, you probably missed some." ~ Alan J. Perlis
+
+Setting up test environment...
+Compiling...
+================================================================
+scene.cpp:179:37: error: use of undeclared identifier 'image'
+        if(index < 0 || index >= maxnum || image[index]==NULL){
+                                           ^
+1 error generated.
+make: *** [scene.o] Error 1
+make: *** Waiting for unfinished jobs....
+
+
+Running tests...
+================================================================
+Could not execute test cases
+
+
+Total score...
+================================================================
+TOTAL SCORE: 0
+
